@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("TESTGIT2"); // bnu deisende save etmemisiniz
+
+Console.WriteLine("tutaq ki yeni nese elave etdiz");
