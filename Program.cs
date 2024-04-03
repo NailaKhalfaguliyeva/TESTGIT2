@@ -2,4 +2,6 @@
 
 Console.WriteLine("tutaq ki yeni nese elave etdiz");
 
-Console.WriteLine("ferqli sey yazdim ))"); // ctrl s
+Console.WriteLine("ferqli sey yazdim ))"); // ctrl 
+
+Console.WriteLine("teze nese birde");
